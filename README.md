@@ -15,7 +15,7 @@ My name is Bill and I am a PhD Student at National Technical University of Athen
 #### Contact Me
 - 📧 Email: psomasbill@mail.ntua.gr
 - [![[LinkedIn]](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bill-psomas/)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mikonvergence](https://twitter.com/bill_psomas)
+- [![[Twitter]](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mikonvergence](https://twitter.com/bill_psomas)
 
 <!--
 **billpsomas/billpsomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
