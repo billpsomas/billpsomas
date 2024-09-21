@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bill and I am a PhD Student at National Technical University of Athens working with [Yannis Avrithis](https://avrithis.net/) and [Konstantinos Karantzalos](http://users.ntua.gr/karank/).
+My name is Bill and I am a Postdoctoral Researcher at National Technical University of Athens.
 
 #### Research Interests
 - Computer Vision
