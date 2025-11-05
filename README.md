@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bill and I am a Postdoctoral Researcher at National Technical University of Athens.
+My name is Bill and I am a MSCA Postdoctoral Fellow at the Visual Recognition Group, FEE, CTU in Prague.
 
 #### Research Interests
 - Computer Vision
@@ -8,8 +8,7 @@ My name is Bill and I am a Postdoctoral Researcher at National Technical Univers
 - Representation Learning
 
 #### Current Work
-- 🔭 I’m currently working on Composed Image Retrieval and Transformer Architectures.
-- 🌱 I’m currently learning how Diffusion models work.
+- 🔭 I’m currently working on Composed Image Retrieval, Generative Modeling, and Transformer Architectures.
 - 👯 I’m always open to collaborations. Feel free to reach me out!
 
 #### Contact Me
