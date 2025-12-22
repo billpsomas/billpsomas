@@ -3,16 +3,16 @@
 My name is Bill and I am a MSCA Postdoctoral Fellow at the Visual Recognition Group, FEE, CTU in Prague.
 
 #### Research Interests
-- Computer Vision
-- Deep Learning
-- Representation Learning
+- Composed Image Retrieval
+- Open-Vocabulary Segmentation
+- Generative Image Modeling
+- Transformer Architectures
+- Vision-Language Models
 
-#### Current Work
-- 🔭 I’m currently working on Composed Image Retrieval, Generative Modeling, and Transformer Architectures.
-- 👯 I’m always open to collaborations. Feel free to reach me out!
+👯 I’m always open to collaborations. Feel free to reach me out!
 
 #### Contact Me
-- 📧 Email: psomasbill@mail.ntua.gr
+- 📧 Email: psomasbill@gmail.com
 - [![[LinkedIn]](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bill-psomas/)
 - [![[Twitter]](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/bill_psomas)
 
